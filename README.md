@@ -1,1 +1,1 @@
-just for fun, hopefully also winning
+Just for fun, hopefully also winning.
