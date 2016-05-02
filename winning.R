@@ -1,5 +1,4 @@
 library(TTR)
-# Time Series Plotting
 library(ggplot2)
 library(xts)
 library(dygraphs)
