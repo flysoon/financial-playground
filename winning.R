@@ -1,3 +1,4 @@
+#test
 library(TTR)
 library(ggplot2)
 library(xts)
@@ -100,6 +101,7 @@ winning('xli')
 winning('xlb')
 winning('xlk')
 winning('xlu')
+
 
 winning('fb')
 winning('lnkd')
